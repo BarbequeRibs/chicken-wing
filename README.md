@@ -6,4 +6,4 @@
 
 ![image](images/raw/IMG_6628.jpg)
 
-![image](images/raw/IMG_0639.jpg)
+![image](images/raw/IMG_0639.JPG)
